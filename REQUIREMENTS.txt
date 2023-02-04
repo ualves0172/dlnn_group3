@@ -1,0 +1,41 @@
+Convolutional Neural Networks for Emotion Recognition    GROUP 3
+
+
+
+Our developed code work was developed under a Google colaboratory platform
+and will need a Google Drive account to be runned.
+
+
+
+Once you enter in your Google Drive main menu/desktop, 
+you will need to upload que zip file "emotions_dataset.zip" 
+and the .py "Grupo 3-CNN for Emotion Recognition" document with the project code.
+
+
+
+Make sure that the two document were saved in the main menu.
+After that you can open the .py document using the Google Colaboratory.
+
+
+
+To run this document, make sure that you choose a compute engine with GPU.
+For that you can check/alter the type of machine that you're using in 
+the menu "Execution time", in the sub-menu "Change type of execution time".
+
+
+
+To run the document by this way, you only need to make sure that all libraries 
+are correctly imported and installed. 
+To do that, just run the first line code.
+
+
+Important note: 
+			In the second topic "Dataset import and organization" 
+you have two cells that only need to be runned in case of you see that the graphics 
+that show the dataset disposition have a gap of more than 3000
+images between the minority and majority class. If the gap is equal 
+or less than 2000 you can proceed.
+
+These graphics are located at four section, topic 
+"Dataset pré-treatment", sub-topic "Data distribution after imbalance 
+treatment".
